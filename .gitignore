@@ -1,0 +1,8 @@
+.idea
+target
+*.log
+*.html
+*.xml
+*.iml
+*.class
+*.swp
